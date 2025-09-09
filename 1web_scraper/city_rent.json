@@ -1,0 +1,215 @@
+{
+    "安徽": {
+        "安庆": "https://aq.lianjia.com//zufang",
+        "滁州": "https://cz.lianjia.com//zufang",
+        "阜阳": "https://fy.lianjia.com//zufang",
+        "合肥": "https://hf.lianjia.com//zufang",
+        "马鞍山": "https://mas.lianjia.com//zufang",
+        "芜湖": "https://wuhu.lianjia.com//zufang"
+    },
+    "北京": {
+        "北京": "https://bj.lianjia.com//zufang"
+    },
+    "重庆": {
+        "重庆": "https://cq.lianjia.com//zufang"
+    },
+    "福建": {
+        "福州": "https://fz.lianjia.com//zufang",
+        "泉州": "https://quanzhou.lianjia.com//zufang",
+        "厦门": "https://xm.lianjia.com//zufang",
+        "漳州": "https://zhangzhou.lianjia.com//zufang"
+    },
+    "广东": {
+        "东莞": "https://dg.lianjia.com//zufang",
+        "佛山": "https://fs.lianjia.com//zufang",
+        "广州": "https://gz.lianjia.com//zufang",
+        "惠州": "https://hui.lianjia.com//zufang",
+        "江门": "https://jiangmen.lianjia.com//zufang",
+        "清远": "https://qy.lianjia.com//zufang",
+        "深圳": "https://sz.lianjia.com//zufang",
+        "珠海": "https://zh.lianjia.com//zufang",
+        "湛江": "https://zhanjiang.lianjia.com//zufang",
+        "中山": "https://zs.lianjia.com//zufang"
+    },
+    "广西": {
+        "北海": "https://bh.lianjia.com//zufang",
+        "防城港": "https://fcg.lianjia.com//zufang",
+        "桂林": "https://gl.lianjia.com//zufang",
+        "柳州": "https://liuzhou.lianjia.com//zufang",
+        "南宁": "https://nn.lianjia.com//zufang"
+    },
+    "贵州": {
+        "贵阳": "https://gy.lianjia.com//zufang",
+        "黔西南": "https://qxn.fang.lianjia.com//zufang"
+    },
+    "甘肃": {
+        "兰州": "https://lz.lianjia.com//zufang",
+        "天水": "https://tianshui.lianjia.com//zufang"
+    },
+    "河北": {
+        "保定": "https://bd.lianjia.com//zufang",
+        "承德": "https://chengde.lianjia.com//zufang",
+        "邯郸": "https://hd.lianjia.com//zufang",
+        "廊坊": "https://lf.lianjia.com//zufang",
+        "秦皇岛": "https://qhd.fang.lianjia.com//zufang",
+        "石家庄": "https://sjz.lianjia.com//zufang",
+        "唐山": "https://ts.lianjia.com//zufang",
+        "张家口": "https://zjk.lianjia.com//zufang"
+    },
+    "湖北": {
+        "鄂州": "https://ez.lianjia.com//zufang",
+        "黄石": "https://huangshi.lianjia.com//zufang",
+        "黄冈": "https://hg.lianjia.com//zufang",
+        "武汉": "https://wh.lianjia.com//zufang",
+        "襄阳": "https://xy.lianjia.com//zufang",
+        "宜昌": "https://yichang.lianjia.com//zufang"
+    },
+    "海南": {
+        "保亭": "https://bt.fang.lianjia.com//zufang",
+        "澄迈": "https://cm.lianjia.com//zufang",
+        "儋州": "https://dz.fang.lianjia.com//zufang",
+        "海口": "https://hk.lianjia.com//zufang",
+        "临高": "https://lg.fang.lianjia.com//zufang",
+        "乐东": "https://ld.fang.lianjia.com//zufang",
+        "陵水": "https://ls.lianjia.com//zufang",
+        "琼海": "http://you.lianjia.com/qh/zufang",
+        "三亚": "https://san.lianjia.com//zufang",
+        "五指山": "https://wzs.fang.lianjia.com//zufang",
+        "文昌": "http://you.lianjia.com/wc/zufang",
+        "万宁": "https://wn.fang.lianjia.com//zufang"
+    },
+    "湖南": {
+        "长沙": "https://cs.lianjia.com//zufang",
+        "常德": "https://changde.lianjia.com//zufang",
+        "衡阳": "https://hy.lianjia.com//zufang",
+        "湘西": "https://xx.lianjia.com//zufang",
+        "岳阳": "https://yy.lianjia.com//zufang",
+        "株洲": "https://zhuzhou.lianjia.com//zufang"
+    },
+    "河南": {
+        "济源": "https://jiyuan.fang.lianjia.com//zufang",
+        "开封": "https://kf.lianjia.com//zufang",
+        "洛阳": "https://luoyang.lianjia.com//zufang",
+        "平顶山": "https://pds.lianjia.com//zufang",
+        "濮阳": "https://py.lianjia.com//zufang",
+        "三门峡": "https://smx.fang.lianjia.com//zufang",
+        "新乡": "https://xinxiang.lianjia.com//zufang",
+        "许昌": "https://xc.lianjia.com//zufang",
+        "郑州": "https://zz.lianjia.com//zufang",
+        "周口": "https://zk.lianjia.com//zufang",
+        "驻马店": "https://zmd.lianjia.com//zufang"
+    },
+    "黑龙江": {
+        "哈尔滨": "https://hrb.lianjia.com//zufang"
+    },
+    "江西": {
+        "赣州": "https://ganzhou.lianjia.com//zufang",
+        "九江": "https://jiujiang.lianjia.com//zufang",
+        "吉安": "https://jian.lianjia.com//zufang",
+        "南昌": "https://nc.lianjia.com//zufang",
+        "上饶": "https://sr.lianjia.com//zufang"
+    },
+    "江苏": {
+        "常州": "https://changzhou.lianjia.com//zufang",
+        "常熟": "https://changshu.lianjia.com//zufang",
+        "丹阳": "https://danyang.lianjia.com//zufang",
+        "海门": "https://haimen.lianjia.com//zufang",
+        "淮安": "https://ha.lianjia.com//zufang",
+        "江阴": "https://jy.lianjia.com//zufang",
+        "句容": "https://jr.lianjia.com//zufang",
+        "昆山": "https://ks.lianjia.com//zufang",
+        "南京": "https://nj.lianjia.com//zufang",
+        "南通": "https://nt.lianjia.com//zufang",
+        "苏州": "https://su.lianjia.com//zufang",
+        "太仓": "https://taicang.lianjia.com//zufang",
+        "无锡": "https://wx.lianjia.com//zufang",
+        "徐州": "https://xz.lianjia.com//zufang",
+        "盐城": "https://yc.lianjia.com//zufang",
+        "镇江": "https://zj.lianjia.com//zufang"
+    },
+    "吉林": {
+        "长春": "https://cc.lianjia.com//zufang",
+        "吉林": "https://jl.lianjia.com//zufang"
+    },
+    "辽宁": {
+        "大连": "https://dl.lianjia.com//zufang",
+        "丹东": "https://dd.lianjia.com//zufang",
+        "抚顺": "https://fushun.lianjia.com//zufang",
+        "沈阳": "https://sy.lianjia.com//zufang"
+    },
+    "内蒙古": {
+        "包头": "https://baotou.lianjia.com//zufang",
+        "巴彦淖尔": "https://byne.fang.lianjia.com//zufang",
+        "赤峰": "https://cf.lianjia.com//zufang",
+        "呼和浩特": "https://hhht.lianjia.com//zufang",
+        "通辽": "https://tongliao.lianjia.com//zufang"
+    },
+    "宁夏": {
+        "银川": "https://yinchuan.lianjia.com//zufang"
+    },
+    "山东": {
+        "菏泽": "https://heze.lianjia.com//zufang",
+        "济南": "https://jn.lianjia.com//zufang",
+        "济宁": "https://jining.lianjia.com//zufang",
+        "临沂": "https://linyi.lianjia.com//zufang",
+        "青岛": "https://qd.lianjia.com//zufang",
+        "泰安": "https://ta.lianjia.com//zufang",
+        "潍坊": "https://wf.lianjia.com//zufang",
+        "威海": "https://weihai.lianjia.com//zufang",
+        "烟台": "https://yt.lianjia.com//zufang",
+        "淄博": "https://zb.lianjia.com//zufang"
+    },
+    "四川": {
+        "成都": "https://cd.lianjia.com//zufang",
+        "德阳": "https://dy.lianjia.com//zufang",
+        "达州": "https://dazhou.lianjia.com//zufang",
+        "广元": "https://guangyuan.lianjia.com//zufang",
+        "乐山": "https://leshan.fang.lianjia.com//zufang",
+        "凉山": "https://liangshan.lianjia.com//zufang",
+        "绵阳": "https://mianyang.lianjia.com//zufang",
+        "眉山": "https://ms.fang.lianjia.com//zufang",
+        "南充": "https://nanchong.lianjia.com//zufang",
+        "攀枝花": "https://pzh.lianjia.com//zufang",
+        "遂宁": "https://sn.lianjia.com//zufang",
+        "宜宾": "https://yibin.lianjia.com//zufang",
+        "雅安": "https://yaan.lianjia.com//zufang",
+        "资阳": "https://ziyang.lianjia.com//zufang"
+    },
+    "陕西": {
+        "宝鸡": "https://baoji.lianjia.com//zufang",
+        "汉中": "https://hanzhong.lianjia.com//zufang",
+        "西安": "https://xa.lianjia.com//zufang",
+        "咸阳": "https://xianyang.lianjia.com//zufang"
+    },
+    "山西": {
+        "晋中": "https://jz.lianjia.com//zufang",
+        "太原": "https://ty.lianjia.com//zufang",
+        "运城": "https://yuncheng.lianjia.com//zufang"
+    },
+    "上海": {
+        "上海": "https://sh.lianjia.com//zufang"
+    },
+    "天津": {
+        "天津": "https://tj.lianjia.com//zufang"
+    },
+    "新疆": {
+        "乌鲁木齐": "https://wlmq.lianjia.com//zufang"
+    },
+    "云南": {
+        "大理": "https://dali.lianjia.com//zufang",
+        "昆明": "https://km.lianjia.com//zufang",
+        "西双版纳": "https://xsbn.lianjia.com//zufang"
+    },
+    "浙江": {
+        "杭州": "https://hz.lianjia.com//zufang",
+        "湖州": "https://huzhou.lianjia.com//zufang",
+        "嘉兴": "https://jx.lianjia.com//zufang",
+        "金华": "https://jh.lianjia.com//zufang",
+        "宁波": "https://nb.lianjia.com//zufang",
+        "衢州": "https://quzhou.lianjia.com//zufang",
+        "绍兴": "https://sx.lianjia.com//zufang",
+        "台州": "https://taizhou.lianjia.com//zufang",
+        "温州": "https://wz.lianjia.com//zufang",
+        "义乌": "https://yw.lianjia.com//zufang"
+    }
+}
